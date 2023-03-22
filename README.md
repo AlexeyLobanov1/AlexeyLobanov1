@@ -28,11 +28,11 @@ I'm  Oleksii Lobanov, QA Engineer with 3 months of experience.
 ---
 
 #### Experience:
-Admiral Studios - January 2023 - present
-The only QA in the team with 3 Developers
-Testing of basic functionality of websites
-Root cause analysis of bugs
-Testing page design in figma
+Outsourcing Company - January 2023 - present
+ *The only QA in the team with 3 Developers
+ *Testing of basic functionality of websites
+ *Root cause analysis of bugs
+ *Testing page design in figma
 
 ---
 
