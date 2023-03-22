@@ -10,7 +10,7 @@ I'm  Oleksii Lobanov, QA Engineer with 3 months of experience.
 | Networks   | HTTP, Client-server architecture, OSI model  |
 | Tools   | Chrome DevTools, Postman, Swagger  |
 | CI tools   |  GIT   |
-| Relational DB   | SQL, DBeaver  |
+| Relational DB   | SQL[SQL](https://drive.google.com/file/d/1wajLrbJh4K5o8m-oodZ9KIxgbRJD_i7h/view?usp=sharing), DBeaver  |
 | Non-relational DB   |  MongoDB, Studio 3T   |
 | Issue trackers   | Jira, TestRail   |
 | Methodologies   | Agile, Scrum, Kanban, Scrumban  |
