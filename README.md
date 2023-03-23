@@ -9,7 +9,7 @@ I'm  Oleksii Lobanov, QA Engineer with 3 months of experience.
 | Documentation   | [Test cases](https://github.com/AlexeyLobanov1/Test-cases.git), [checklists](https://github.com/AlexeyLobanov1/Checklists.git), [bug reports](https://github.com/AlexeyLobanov1/bug-reports.git)  |
 | Networks   | HTTP, Client-server architecture, OSI model  |
 | Tools   | Chrome DevTools, [Postman](https://github.com/AlexeyLobanov1/Postman.git), Swagger  |
-| CI tools   |  [GIT]([http://www.example.com/](https://github.com/AlexeyLobanov1/GIT.git))  |
+| CI tools   |  [GIT](https://github.com/AlexeyLobanov1/GIT.git)  |
 | Relational DB   | [SQL](https://github.com/AlexeyLobanov1/SQL.git), DBeaver  |
 | Non-relational DB   | [MongoDB](https://github.com/AlexeyLobanov1/MongoDB.git), Studio 3T  |
 | Issue trackers   | Jira, TestRail   |
