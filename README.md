@@ -4,7 +4,7 @@ I'm  Oleksii Lobanov, QA Engineer with 3 months of experience.
 
 #### Skills:
 
-| Testing | [Theory, test design techniques](https://drive.google.com/file/d/1yBQwvaHuO3cPokBhknWA1eeJzmCUSs31/view?usp=share_link) |
+| Testing | [Theory, test design techniques](https://github.com/AlexeyLobanov1/Theory-test-design-techniques.git) |
 | :----------------- | :------------------ |
 | Documentation   | Test cases, checklists, bug reports  |
 | Networks   | HTTP, Client-server architecture, OSI model  |
