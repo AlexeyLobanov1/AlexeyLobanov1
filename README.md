@@ -6,7 +6,7 @@ I'm  Oleksii Lobanov, QA Engineer with 3 months of experience.
 
 | Testing | [Theory, test design techniques](https://github.com/AlexeyLobanov1/Theory-test-design-techniques.git) |
 | :----------------- | :------------------ |
-| Documentation   | [Test cases](https://github.com/AlexeyLobanov1/Test-cases.git), [checklists](https://github.com/AlexeyLobanov1/Checklists.git), [bug reports] (https://github.com/AlexeyLobanov1/bug-reports.git)  |
+| Documentation   | [Test cases](https://github.com/AlexeyLobanov1/Test-cases.git), [checklists](https://github.com/AlexeyLobanov1/Checklists.git), [bug reports](https://github.com/AlexeyLobanov1/bug-reports.git)  |
 | Networks   | HTTP, Client-server architecture, OSI model  |
 | Tools   | Chrome DevTools, [Postman](https://github.com/AlexeyLobanov1/Postman.git), Swagger  |
 | CI tools   |  GIT   |
