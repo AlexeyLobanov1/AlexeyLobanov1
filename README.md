@@ -11,7 +11,7 @@ I'm  Oleksii Lobanov, QA Engineer with 3 months of experience.
 | Tools   | Chrome DevTools, [Postman](https://github.com/AlexeyLobanov1/Postman.git), Swagger  |
 | CI tools   |  GIT   |
 | Relational DB   | [SQL](https://github.com/AlexeyLobanov1/SQL.git), DBeaver  |
-| Non-relational DB   | [MongoDB](https://drive.google.com/file/d/19oSW9G3m18vNawt74NVRSHrspCh0XSrh/view?usp=sharing), Studio 3T  |
+| Non-relational DB   | [MongoDB](https://github.com/AlexeyLobanov1/MongoDB.git), Studio 3T  |
 | Issue trackers   | Jira, TestRail   |
 | Methodologies   | Agile, Scrum, Kanban, Scrumban  |
 | Data formats   | JSON  |
