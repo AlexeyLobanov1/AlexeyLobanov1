@@ -13,7 +13,7 @@ I'm  Oleksii Lobanov, QA Engineer with 3 months of experience.
 | Relational DB   | [SQL](https://github.com/AlexeyLobanov1/SQL.git), DBeaver  |
 | Non-relational DB   | [MongoDB](https://github.com/AlexeyLobanov1/MongoDB.git), Studio 3T  |
 | Issue trackers   | Jira, TestRail   |
-| Methodologies   | Agile, Scrum, Kanban, Scrumban  |
+| Methodologies   | [Agile, Scrum, Kanban, Scrumban](https://github.com/AlexeyLobanov1/Agile-Scrum-Kanban-Scrumban.git) |
 | Data formats   | JSON  |
 | Web   | HTML, CSS, Cache, Cookie, Local storage  |
 | Languages   | English, Ukrainian  |
