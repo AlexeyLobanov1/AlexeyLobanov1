@@ -32,7 +32,6 @@ Outsourcing Company - January 2023 - present
 ### Education:
 
 Successfully completed [Advanced Software Testing Course under personal supervision of a mentor.](https://ilarionhalushka.github.io/ua/certificates/Oleksii-Lobanov#%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D1%96%D0%BA%D0%B0%D1%82-%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%B0-)
-
 ---
 
 ### :hammer_and_wrench: Skills
