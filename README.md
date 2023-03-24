@@ -62,5 +62,5 @@ Outsourcing Company - January 2023 - present
  
 <div id="badges">
 
-[![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white)](https://telegram.com)
+[![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/alexeyLobanov1)
 
