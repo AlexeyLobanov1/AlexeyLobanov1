@@ -48,7 +48,8 @@ Successfully completed [Advanced Software Testing Course under personal supervis
  <img src="https://user-images.githubusercontent.com/113934709/221174290-80c8e1f9-3aa8-4925-bdc3-d20edfa8c5e6.png" width="40" height="40"/>
  <img src="https://user-images.githubusercontent.com/113934709/221174296-dda7d004-2d2c-47c4-8eda-1b873c7272ee.png" width="40" height="40"/>
  <img src="https://user-images.githubusercontent.com/113934709/221174308-6129d0f4-6d48-47ce-8087-6d80e4cdc629.png" width="40" height="40"/>
-
+ <img src="https://user-images.githubusercontent.com/113934709/221174308-6129d0f4-6d48-47ce-8087-6d80e4cdc629.png" width="40" height="40"/>
+ <img src="https://user-images.githubusercontent.com/113934709/221174308-6129d0f4-6d48-47ce-8087-6d80e4cdc629.png" width="40" height="40"/>
  ---
  
 </div>
