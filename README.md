@@ -26,6 +26,7 @@ I'm  Oleksii Lobanov, QA Engineer.
 * Testing of basic functionality of websites
 * Root cause analysis of bugs
 * Testing page design in figma
+* Improvement of the logic of Business
 
 ---
 
