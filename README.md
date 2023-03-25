@@ -21,7 +21,7 @@ I'm  Oleksii Lobanov, QA Engineer.
 ---
 
 #### Experience:
-Outsourcing Company - January 2023 - present
+
 * The only QA in the team with 3 Developers
 * Testing of basic functionality of websites
 * Root cause analysis of bugs
