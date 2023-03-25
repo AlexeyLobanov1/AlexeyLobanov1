@@ -15,7 +15,7 @@ I'm  Oleksii Lobanov, QA Engineer.
 | Issue trackers   | Jira, TestRail   |
 | Methodologies   | [Agile, Scrum, Kanban, Scrumban](https://github.com/AlexeyLobanov1/Agile-Scrum-Kanban-Scrumban.git) |
 | Data formats   | JSON  |
-| Web   | [HTML, CSS](https://github.com/AlexeyLobanov1/HTML-CSS.git), Cache, [Cache, Cookie, Local storage ](https://github.com/AlexeyLobanov1/Cache-Cookie-Local-storage.git) |
+| Web   | [HTML, CSS](https://github.com/AlexeyLobanov1/HTML-CSS.git), [Cache, Cookie, Local storage ](https://github.com/AlexeyLobanov1/Cache-Cookie-Local-storage.git) |
 | Languages   | English, Ukrainian  |
 
 ---
