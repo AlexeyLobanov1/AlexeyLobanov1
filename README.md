@@ -21,12 +21,12 @@ I'm  Oleksii Lobanov, QA Engineer.
 ---
 
 #### Experience:
-Admiral Studios - February - February 2022-2023
-The only QA in the team with 3 Developers
-Setting up QA processes  from scratch
-Testing two projects at the same time 
-Execute shift-left testing starting from design and requirements
-Read 3 books on software testing
+* Admiral Studios - February - February 2022-2023
+* The only QA in the team with 3 Developers
+* Setting up QA processes  from scratch
+* Testing two projects at the same time 
+* Execute shift-left testing starting from design and requirements
+* Read 3 books on software testing
 
 ---
 
