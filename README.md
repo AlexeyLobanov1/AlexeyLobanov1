@@ -22,17 +22,19 @@ I'm  Oleksii Lobanov, QA Engineer.
 
 #### Experience:
 Admiral Studios - February - February 2022-2023
-* The only QA in the team with 3 Developers
-* Setting up QA processes  from scratch
-* Testing two projects at the same time 
-* Execute shift-left testing starting from design and requirements
-* Read 3 books on software testing
+* Fulfilled the role of the first QA in the company with 12 developers.
+* Set up QA testing processes on three projects from scratch.
+* Successfully tested two web projects in parallel with 100% requirements test coverage.
+* Executed Shift-left testing starting from designs and requirements which resulted in preventing 30% of bugs.
+* Created checklists to reduce time on regression testing by 20%.
+* Read 4 books on Software Testing.
+
 
 ---
 
 ### Education:
 
-Successfully completed [Advanced Software Testing Course under personal supervision of a mentor.](https://ilarionhalushka.github.io/ua/certificates/Oleksii-Lobanov#%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D1%96%D0%BA%D0%B0%D1%82-%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%B0-)
+Successfully completed [Advanced Software Testing Course under personal supervision of a mentor.](https://ilarionhalushka.github.io/certificates/Oleksii-Lobanov#certificate-of-completion-)
 
 ---
 
