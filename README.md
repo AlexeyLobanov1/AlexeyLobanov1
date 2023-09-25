@@ -21,7 +21,7 @@ I'm  Oleksii Lobanov, QA Engineer.
 ---
 
 #### Experience:
-Disoft - July 2021 - present
+Disoft - February 2022 - present
 * Functional testing of websites, log analysis, working with Postman, Swagger.
 * Collaborated with developers to identify and resolve issues.
 * Successfully tested two web projects in parallel with 100% requirements test coverage.
