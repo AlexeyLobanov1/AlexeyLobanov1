@@ -22,11 +22,11 @@ I'm  Oleksii Lobanov, QA Engineer.
 
 #### Experience:
 Disoft - May 2021 - present
-* Functional testing of websites, log analysis, working with Postman, Swagger.
+* Functional testing of websites, log analysis, working with Postman, Swagger, Docker, MQTT.
 * Collaborated with developers to identify and resolve issues.
 * Successfully tested two web projects in parallel with 100% requirements test coverage.
 * Executed Shift-left testing starting from designs and requirements which resulted in preventing 20% of bugs.
-* Created checklists to reduce time on regression testing by 30%.
+* Created collections in Postman to reduce time spent on regression testing by 30%.
 * Read 4 books on Software Testing.
 
 
