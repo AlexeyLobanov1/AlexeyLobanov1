@@ -10,7 +10,7 @@ I'm  Oleksii Lobanov, QA Engineer.
 | Networks   | [HTTP, Client-server architecture, OSI model](https://github.com/AlexeyLobanov1/HTTP-Client-server-architecture-OSI-model.git)  |
 | Tools   | Chrome DevTools, [Postman](https://github.com/AlexeyLobanov1/Postman.git), Swagger  |
 | CI tools   |  [GIT](https://github.com/AlexeyLobanov1/GIT.git)  |
-| Relational DB   | [SQL](https://github.com/AlexeyLobanov1/SQL.git), DBeaver  |
+| Relational DB   | [SQL](https://github.com/AlexeyLobanov1/SQL.git), DBeaver, Adminer  |
 | Non-relational DB   | [MongoDB](https://github.com/AlexeyLobanov1/MongoDB.git), Studio 3T  |
 | Issue trackers   | Jira, TestRail   |
 | Methodologies   | [Agile, Scrum, Kanban, Scrumban](https://github.com/AlexeyLobanov1/Agile-Scrum-Kanban-Scrumban.git) |
